@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kore Github's page
 
 You can use the [editor on GitHub](https://github.com/kore-dev/projects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
